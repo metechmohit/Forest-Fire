@@ -1,5 +1,4 @@
 <p align="left">
-	<img width="300" src="https://drive.google.com/uc?export=view&id=1Q-jMna73t3OcGULw_TAi2M786kinOZNZ" />
 	<h2 align="left"> Fire Weather Index Predictor </h2>
 	<h4 align="left"> Predicts the FWI by taking input of other parameters
  <h4>
